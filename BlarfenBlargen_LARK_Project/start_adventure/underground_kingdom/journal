@@ -1,0 +1,38 @@
+
+You have awaken only to find yourself in complete darkness!
+You barely recall that you fell into a dungeon!
+Hurry and survey your surroundings!
+
+You have a magical spell to survey your surroundings.
+
+To look around, type:	ls
+
+Try looking around the room.
+
+EXAMPLE:
+
+$ ls
+
+
+Once done type:
+----------------------------------
+. .Blarfen	or	. .Blargen
+----------------------------------
+into the command line, to choose who you want to play.
+
+CHARACTER DESCRIPTION:
+
+Blarfen 
+is a magical warrior.
+He thinks he is the smarter one of the 2 brothers.
+In reality, he isn't the sharpest tool in the shed...
+He gets a weapon in the beginning.
+
+Blargen
+is a scholar.
+He likes to think before he jumps into the fray.
+Which is fine but he overcomplicates some things...
+He starts with a potion in the beginning.
+
+CHOOSE YOUR CHARACTER!
+

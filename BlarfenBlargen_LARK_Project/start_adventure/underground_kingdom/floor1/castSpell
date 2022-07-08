@@ -1,0 +1,128 @@
+#!/bin/bash
+# castSpell
+#
+# If you are reading this, you are out of bounds
+# and are reading the code of this game.
+#
+#                       Congrats!
+#
+# Learning Linux is all about curiosity, so read this code and
+# try to figure out what is does.
+#
+# When you are ready to play, however, stick to the journals.
+printf "\n"
+R="Resist"
+if [ $R = "Resist" ]
+then echo "You have successfully resisted the Lust spell of the demon!"
+  printf "\n"
+  sleep 2
+  echo "The Lust demon has been vanquished due to the backlash of the Lust spell!"
+  printf "\n"
+  sleep 2
+  mv ../.floor2 floor2 2>/dev/null
+  echo "You may now move on to floor 2!"
+  printf "\n"
+else
+  sleep 2
+  echo "You failed the spell."
+  printf "\n"
+fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# hmm... that didn't work
+# Remember to type ./castSpell
+# so that you continue.
+
+

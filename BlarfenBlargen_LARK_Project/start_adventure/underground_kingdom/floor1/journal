@@ -1,0 +1,28 @@
+
+Welcome to your first trial!
+
+A demon appears in front of you!
+
+It appears to be trying to cast a spell of Lust!
+
+You must hurry and cast a spell to resist the temptation!
+
+You will need to learn the command:
+------
+$ echo
+------
+
+Using this will allow you to cast "Resist" into castSpell.
+
+EXAMPLE:
+-------------------------------------
+$ echo "echo \"Resist\"" >> castSpell
+-------------------------------------
+
+The >> operator will allow you to move your spell into castSpell
+Use the \ which is escape... it should on the same button as |
+
+Then run the application, castSpell,
+Type this into the command line: 
+. castSpell
+
